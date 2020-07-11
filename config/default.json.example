@@ -13,6 +13,14 @@
       "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
     }
   },
+   "shroud": {
+    "paytxfee": .0001,
+    "config": {
+      "port": 42998,
+      "user": "username",
+      "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+    }
+  },
   "doge": {
     "paytxfee": 1,
     "config": {
